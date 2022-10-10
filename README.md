@@ -1,2 +1,2 @@
 # FIleDownloadUploadRestAPI
-spring boot rest api fro download and upload file ( pip saprate file)
+spring boot rest api for download and upload file ( pip saprate file) 
